@@ -1,5 +1,5 @@
 <h3>Koen Oostveen</h3>
-Hi, thanks for stopping by!
+Hi, thanks for stopping by! Most of my projects live on [my own Forgejo instance](https://forge.koenoostveen.nl/koen) now, have a look!
 
 <hr>
 
